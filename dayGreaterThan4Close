@@ -1,0 +1,57 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "websites" : [
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection?chromeless=true",
+      "duration" : 120,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection9fa069f2982e9e1e5904?chromeless=true",
+      "duration" : 120,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSectiona74ace90255330746945?chromeless=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSectionb39563f5361352c20b2a?chromeless=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection4177c0abcec76460160f?chromeless=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection7f4d0f59115d6dc99537?chromeless=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSectione3f7982fea2ae2ee4d20?chromeless=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection1afca20d105e3b79a91c?chromeless=true",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection2235a159437cd869bb52?chromeless=true",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url" : "https://app.powerbi.com/groups/me/reports/0b3c5205-d328-4f51-b3fb-a10df442fb6d/ReportSection69aba90ea5db8f60df3d?chromeless=true",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 7200
+    }
+  ]
+}
